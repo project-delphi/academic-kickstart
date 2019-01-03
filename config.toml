@@ -65,9 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "ravkalia@gmail.com"
   address = ""
-  office_hours = """
-  """
-  phone = "888 888 88 88"
+  phone = ""
   skype = "ravkalia1"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -104,7 +102,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "dark"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -312,15 +310,6 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"

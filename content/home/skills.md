@@ -25,18 +25,35 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+
+ [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+
+ [[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "ES6"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "vuejs"
+  icon_pack = "fab"
+  name = "VueJS"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "fa-docker"
+  icon_pack = "fab"
+  name = "Docker"
+
+[[feature]]
+  icon = "fa-linux"
+  icon_pack = "fab"
+  name = "Linux"
+
+[[feature]]
+  icon = "fa-apple"
+  icon_pack = "fab"
+  name = "Darwin"
 
 +++
