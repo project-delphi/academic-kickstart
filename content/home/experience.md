@@ -73,7 +73,7 @@ Leading satellite operations in Mexico City, Cancun, Victoria - British Columbia
 [[experience]]
   title = "CompSci and Applied Math Tutor"
   company = "University of Oxford"
-  company_url = ""
+  company_url = "http://www.ox.ac.uk/"
   location = "Oxford, United Kingdom"
   date_start = "2004-09-01"
   date_end = "2011-04-01"
