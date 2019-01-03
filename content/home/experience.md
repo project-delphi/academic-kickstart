@@ -91,7 +91,7 @@ Leading satellite operations in Mexico City, Cancun, Victoria - British Columbia
 [[experience]]
   title = "Quantitative Research Analyst Developer"
   company = "Ernst and Young"
-  company_url = ""
+  company_url = "https://www.ey.com/"
   location = "London, United Kingdom"
   date_start = "2005-06-01"
   date_end = "2006-06-01"
